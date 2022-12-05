@@ -1,0 +1,114 @@
+
+/* Site Stylesheet
+  1. Global Styles
+  2. Typography Styles
+  3. Structure Styles
+  4. Module Styles
+  5. Component Styles
+  6. Page Styles
+  7. Items
+  8. Footer
+
+  
+======================================== */
+
+
+
+
+
+
+/*  1.  ======= Global Styles =======  */
+
+body {
+	background-color: hsla(0,0%,11%)
+}
+
+header {
+	display: flex;
+	font-family: Azonix;
+	color: hsla(103, 88%, 47%);
+	font-size: 50px;
+	justify-content: center;
+	align-content: center;
+	
+}
+
+.links {
+	display: flex;
+	font-family: Azonix;
+	font-size: 20px;
+	align-content: center;
+	justify-content: center;
+	padding-top: 20px;
+}
+
+a:link {
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: hsla(103, 88%, 47%);
+}
+
+a:visited {
+	color: hsla(103, 88%, 47%);
+}
+
+a:hover {
+	color: white;
+}
+
+
+
+
+/*  2.  ======= Typography Styles =======  */
+
+
+
+
+
+
+
+
+
+/*  3.  ======= Structure Styles =======  */
+
+
+
+
+
+
+
+/*  4.  ======= Modules Styles =======  */
+
+
+
+
+
+
+
+/*  5.  ======= Component Styles =======  */
+
+
+
+
+
+
+
+
+/*  6.  ======= Page Styles =======  */
+
+
+
+
+
+
+
+
+/*  7.  ======= Items Styles =======  */
+
+
+
+
+
+
+/*  8.  ======= Footer =======  */
